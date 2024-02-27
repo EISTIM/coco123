@@ -1,0 +1,136 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+    font-family: 'Teko',sans-serif;
+    background-color: #E7DFD8;
+}
+.mikimause{
+    height: 698px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1119px;
+    margin: 0 auto;
+}
+.mikimause-img{
+    height: 500px;
+    width: 518px;
+}
+.number{
+    background-color:#B99FEA;
+    width: 74px;
+    height: 74px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 38px;
+    margin-right: 19px;
+}
+.mikimause-number{
+    display: flex;
+    margin-bottom: 28px;
+    align-items: center;
+}
+.mikimause-right{
+    width: 500px;
+    margin-left:107px;
+}
+.mikimause-title{
+font-size: 35px;
+margin-bottom: 30px;
+}
+.mikimaus-text{
+    font-size: 14px;
+    margin-bottom: 35px;
+}
+.button{
+    font-size: 16px;
+    background-color: #B99FEA;
+    width: 183px;
+    height: 43px;
+}
+.coco-right{
+    width: 500px;
+    margin-left:107px;
+}
+.coco{
+    height: 698px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1119px;
+    margin: 0 auto;
+}
+.coco-img{
+    height: 500px;
+    width: 518px;
+    order: 1;
+}
+.number{
+    background-color:#B99FEA;
+    width: 74px;
+    height: 74px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 38px;
+    margin-right: 19px;
+}
+.coco-number{
+    display: flex;
+    margin-bottom: 28px;
+    align-items: center;
+}
+.coco-title{
+font-size: 35px;
+margin-bottom: 30px;
+}
+.coco-text{
+    font-size: 14px;
+    margin-bottom: 35px;
+}
+.vayana{
+    height: 698px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1119px;
+    margin: 0 auto;
+}
+.vayana-img{
+    height: 500px;
+    width: 518px;
+}
+.number{
+    background-color:#B99FEA;
+    width: 74px;
+    height: 74px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 38px;
+    margin-right: 19px;
+}
+.vayana-number{
+    display: flex;
+    margin-bottom: 28px;
+    align-items: center;
+}
+.vayana-right{
+    width: 500px;
+    margin-left:107px;
+}
+.vayana-title{
+font-size: 35px;
+margin-bottom: 30px;
+}
+.vayana-text{
+    font-size: 14px;
+    margin-bottom: 35px;
+}
